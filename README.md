@@ -32,7 +32,8 @@
     <td align="center"><strong>Infra</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Amazon%20S3-569A31?&logo=Amazon%20S3&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?&logo=Amazon%20EC2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?&logo=Amazon%20EC2&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black"/>
     </td>
   </tr>
 </table>
